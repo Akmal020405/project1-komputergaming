@@ -1,0 +1,14 @@
+Library/ 
+Temp/ 
+Logs/ 
+Obj/ 
+UserSettings/ 
+MemoryCaptures/ 
+Build/ 
+Builds/ 
+ProjectSettings/UnityConnectSettings.asset 
+ProjectSettings/XRSettings.asset 
+ProjectSettings/VersionControlSettings.asset 
+Packages/manifest.json 
+Packages/packages-lock.json 
+Library/PackageCache/ 
