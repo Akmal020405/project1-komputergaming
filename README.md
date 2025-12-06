@@ -1,6 +1,4 @@
-# [Nama Proyek Anda, contoh: 3D Maze Runner] 🧱🏃
-
-![Screenshot utama dari editor Unity](image_8670a1.jpg)
+# [3D Maze Runner] 🧱🏃
 
 Sebuah proyek game 3D sederhana yang dibuat menggunakan **Unity Engine**. Proyek ini bertujuan untuk [Jelaskan tujuan utama game, misal: membuat prototipe mekanik labirin 3D dengan fisika dasar].
 
